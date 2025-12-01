@@ -6,11 +6,17 @@
 
 
  ✅ Total Sales: 15M
+
  ✅ Total Orders: 200
+
  ✅ Average Order Value: 75.43K
+
  ✅ Total Quantity Sold: 590
+
  ✅ Top-selling categories: Electronics & Accessories
+
  ✅ Highest-performing region: East & North (~26%)
+
  ✅ Top 5 customers contributing highest sales
 
 🛠️ What I Used:
