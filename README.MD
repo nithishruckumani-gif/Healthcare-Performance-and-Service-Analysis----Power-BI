@@ -1,7 +1,6 @@
 🚀Power BI Sales Dashboard | End-to-End Data Analysis Project (2024–2025)
 
- I created an interactive Sales Performance Dashboard using Power BI, focusing on end-to-end data cleaning, modeling, and visualization.
- This dashboard helps track key business metrics and provides a clear view of sales performance across products, categories, and regions.
+ I created an interactive Sales Performance Dashboard using Power BI, focusing on end-to-end data cleaning, modeling, and visualization. This dashboard helps track key business metrics and provides a clear view of sales performance across products, categories, and regions.
 
 🔍 Key Insights from the Dashboard:
 
