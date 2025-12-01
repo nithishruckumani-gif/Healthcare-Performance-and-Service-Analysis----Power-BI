@@ -4,6 +4,7 @@
 
 🔍 Key Insights from the Dashboard:
 
+
  ✅ Total Sales: 15M
  ✅ Total Orders: 200
  ✅ Average Order Value: 75.43K
