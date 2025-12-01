@@ -35,7 +35,10 @@ What this dashboard reveals:
 
 
 Nithish R
+
 Aspiring Data Analyst
+
 Linkedin: www.linkedin.com/in/nithish-r-59603a297
+
 Email: nithishruckumani@gmail.com
 
